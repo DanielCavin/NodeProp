@@ -7,3 +7,6 @@ Aplicação de um site comercial
 <h4> JavaScript (Jquery) </h4>
 <img src="img/site1.png"/>
 <img src="img/site2.png"/>
+
+# idealizado por 
+https://www.nodestudio.com.br/
